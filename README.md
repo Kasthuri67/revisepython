@@ -3,8 +3,8 @@
 It's a quick python practice files
 
 Topics:
-1.Type Conversions - age_difference, float_to_integer, fahrenheit_to_celsius,
-2.Operators - addition, rectangle_area, celsius_to_fahrenheit, volume_of_sphere, odd_or_even,
+1.Type Conversions - age_difference, float_to_integer, fahrenheit_to_celsius \n
+2.Operators - addition, rectangle_area, celsius_to_fahrenheit, volume_of_sphere, odd_or_even
 3.Expressions - find_average, find_leapyear, pythagorean, compound_interest, factorial,
 4.Input-Output - personalized_greeting, kilometers_to_miles, word_count, traingle_area,
 5.Conditional Statements - interger_type, vowel_consonant_check, find_max, determine_ticket_price, is_leap_year,
